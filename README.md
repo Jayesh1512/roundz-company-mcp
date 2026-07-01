@@ -39,7 +39,7 @@ Use this in an MCP client config:
     "roundz-company": {
       "command": "node",
       "args": [
-        "/Users/jys/Documents/Codex/2026-07-01/re/outputs/roundz-company-mcp/server.js"
+        ...path/server.js"
       ]
     }
   }
